@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 	<html>
 	<head>
-	<!-- Coba bos -->
 		<title>Clinic</title>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 		<style type="text/css">
